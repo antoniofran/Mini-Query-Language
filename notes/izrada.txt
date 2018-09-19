@@ -1,0 +1,6 @@
+﻿omogući računanje sa varijablama u izrazu
+ > kod izarcunavanja vrijendosti gledaj je li numeric
+      > ukoliko nije, prvojeri da li postoji variajble
+             > true -> uzmi vrijednost | false -> vrati grešku
+
+svi operatori fukcioniraju isto

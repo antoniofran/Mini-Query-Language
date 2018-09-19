@@ -1,0 +1,1 @@
+Imeplenitirati potpuni exception handling za MiniQueryLanguage.
